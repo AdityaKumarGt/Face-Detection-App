@@ -18,4 +18,4 @@ This Android app utilizes Android's Face Detection ML Kit to analyze facial feat
 
 ## Try this out:
 * Android's Face Detection ML Kit: https://developers.google.com/ml-kit/vision/face-detection/android
-* Download the App from Released section of this repository.
+* Download the App from Release section of this repository.
